@@ -1,0 +1,12 @@
+modelo,accuracy en test
+Random Forest,0.83
+KNN,0.87
+Ridge, 0.67
+SGDClassifier, 0.43
+Bagging Classifier,0.81
+AdaBoost,0.57
+XGBoost,0.86
+LightGBM,0.87
+Modelo CNN,0.95
+LightGBM con subtipos,0.88
+Modelo CNN con subtipos,0.99
